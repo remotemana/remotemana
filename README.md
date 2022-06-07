@@ -15,6 +15,8 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remotemana&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![remotemana wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=remotemana&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Remotemana GitHub stats](https://github-readme-stats.vercel.app/api?username=remotemana&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
