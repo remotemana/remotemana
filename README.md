@@ -13,7 +13,7 @@
 - ⚡ Fun fact: Chickens can recognize about 10 different distinct faces and will in fact remember you. I have 13 🐔🐣's!
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remotemana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remotemana&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Remotemana GitHub stats](https://github-readme-stats.vercel.app/api?username=remotemana&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
