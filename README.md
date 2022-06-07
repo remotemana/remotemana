@@ -17,4 +17,4 @@
 
 [![Remotemana GitHub stats](https://github-readme-stats.vercel.app/api?username=remotemana&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
-<h2>📊 Weekly development breakdown: </h2>
+<!-- <h2>📊 Weekly development breakdown: </h2> -->
