@@ -3,8 +3,6 @@
 
 <!-- **remotemana/remotemana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a new Phaser 3 game in the React app environment. 
 - 🌱 I’m currently learning React and the syntax in Phaser 3 game engine. 
 - 👯 I’m looking to collaborate on any and all projects to expand on my coding knowledge.
