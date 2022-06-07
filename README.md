@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **remotemana/remotemana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Chickens can recognize about 10 different distinct faces and will in fact remember you. I have 13 🐔🐣's!
 
 [![Remotemana GitHub stats](https://github-readme-stats.vercel.app/api?username=remotemana)](https://github.com/remotemana/github-readme-stats)
--->
+
