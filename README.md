@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Chickens can recognize about 10 different distinct faces and will in fact remember you. I have 13 🐔🐣's!
 
-[![Remotemana GitHub stats](https://github-readme-stats.vercel.app/api?username=remotemana)](https://github.com/remotemana/github-readme-stats)
+[![Remotemana GitHub stats](https://github-readme-stats.vercel.app/api?username=remotemana)](https://github.com/anuraghazra/github-readme-stats)
 
