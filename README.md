@@ -2,7 +2,7 @@
 
 
 <!-- **remotemana/remotemana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-- 🖥️ I'm in the last week of the University of Washingtons with Trilogy Coding Bootcamp!
+- 🖥️ I have officially graduated from the University of Washingtons Coding Bootcamp! 
 - ⌨️ The First time I coded anything was on 3/21/22!
 - 🔭 I’m currently working on a new Phaser 3 game in the React app environment. 
 - 🌱 I’m currently learning React and the syntax in Phaser 3 game engine. 
