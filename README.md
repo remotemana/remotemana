@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React and the syntax in Phaser 3 game engine. 
 - 👯 I’m looking to collaborate on any and all projects to expand on my coding knowledge.
 - 💬 Ask me about how being a Chef at Microsoft for ten years inspired me to get into the tech industry.
-- 📫 Reach me through the contact form on my portfolio https://secret-eyrie-61205.herokuapp.com/Contact or at lucas.e.roman@gmail.com
+- 📫 Reach me through the contact form on my portfolio http://lucasromandev.herokuapp.com/ or at lucasromandev@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Chickens can recognize about 10 different distinct faces and will in fact remember you. I have 13 🐔🐣's!
 
