@@ -4,8 +4,7 @@
 <!-- **remotemana/remotemana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 - 🖥️ I have officially graduated from the University of Washingtons Coding Bootcamp! 
 - ⌨️ The First time I coded anything was on 3/21/22!
-- 🔭 I’m currently working on a new Phaser 3 game in the React app environment. 
-- 🌱 I’m currently learning React and the syntax in Phaser 3 game engine. 
+- 🔭 I’m currently working on a the next movie app to help decisions in the React app environment. 
 - 👯 I’m looking to collaborate on any and all projects to expand on my coding knowledge.
 - 💬 Ask me about how being a Chef at Microsoft for ten years inspired me to get into the tech industry.
 - 📫 Reach me through the contact form on my portfolio http://lucasromandev.herokuapp.com/ or at lucasromandev@gmail.com
