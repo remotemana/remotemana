@@ -4,7 +4,7 @@
 - ⌨️ First line of code: 3/21/22. UW Coding Bootcamp grad turned full-stack builder.
 - 🔭 Currently building: a Tauri 2 command center app (React + FastAPI + SQLite), cross-server monitoring systems, and a digital signage platform running on Raspberry Pi 5s
 - 🛠️ Day-to-day: Linux server admin, networking (UniFi/Tailscale), Docker, automated deployments, WordPress SEO, VBA macros for inventory management
-- 💬 Ask me about going from Microsoft Chef → Bootcamp Grad → IT Director in under 4 years
+- 💬 Ask me about going from Microsoft Chef → Bootcamp Grad → IT Manager -> CEO in Training in under 4 years
 - 📫 Reach me at lucasromandev@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Chickens can recognize about 10 different distinct faces and will in fact remember you. I still have 13 🐔🐣's!
