@@ -10,9 +10,12 @@
 - ⚡ Fun fact: Chickens can recognize about 10 different distinct faces and will in fact remember you. I still have 13 🐔🐣's!
 
 ---
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=remotemana&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=remotemana&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="195" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-fast.vercel.app/api?username=remotemana&show_icons=true&theme=vision-friendly-dark" alt="Remotemana GitHub stats" height="195" /></a>
+</div>
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=remotemana&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
+</div>
 
-[![Remotemana GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=remotemana&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=remotemana&theme=vision-friendly-dark)](https://git.io/streak-stats)
 ---
