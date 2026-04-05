@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🖥️ IT Director at HWY 420 — managing infrastructure across three dispensary locations in Kitsap County, WA
+- 🖥️ IT manager at HWY 420 — managing infrastructure across two dispensary locations in Kitsap County, WA
 - ⌨️ First line of code: 3/21/22. UW Coding Bootcamp grad turned full-stack builder.
 - 🔭 Currently building: a Tauri 2 command center app (React + FastAPI + SQLite), cross-server monitoring systems, and a digital signage platform running on Raspberry Pi 5s
 - 🛠️ Day-to-day: Linux server admin, networking (UniFi/Tailscale), Docker, automated deployments, WordPress SEO, VBA macros for inventory management
